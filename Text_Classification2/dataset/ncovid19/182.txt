@@ -1,0 +1,1 @@
+Morrison also confirmed the data would be stored by on servers managed by AWS, a unit of US internet giant Amazon.com Inc, but added that "it's a nationally encrypted data store".
